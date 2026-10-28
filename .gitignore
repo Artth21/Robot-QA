@@ -1,0 +1,10 @@
+results/
+output.xml
+log.html
+report.html
+*.png
+pycache/
+.venv/
+venv/
+.idea/
+.vscode/
